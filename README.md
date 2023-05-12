@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Saqlain 👋
 
-<!--
-**Saqlain-qark/Saqlain-qark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a passion for building creative solutions. I specialize in web development and have experience with a variety of programming languages and technologies. I'm always learning and exploring new ideas to improve my skills and contribute to the community.
 
-Here are some ideas to get you started:
+## 🔭 My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few highlights of my recent projects:
+
+- [Idea Adventurer](https://github.com/Saqlain-qark/Idea-Adventurer) - A website that provides educational and technological resources for people interested in learning about new ideas.
+
+## 🌱 I'm currently learning
+
+- 
+
+## 📫 How to reach me
+
+- Email: saqlainmemon776@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohammed-saqlain-0a1782145/
+- Twitter: https://twitter.com/saqlain__memon
+
+## 💻 Skills
+
+- **Languages:** JavaScript, HTML/CSS, Java, Python, C
+- **Front-end:** 
+- **Back-end:** 
+- **Databases:** MySQL, OracleSQL
+- **Tools:** Git, GitHub, VS Code, Eclipse, Atom
+
+## 📈 GitHub Stats
+
+[![Saqlain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqlain-qark&count_private=true&show_icons=true&theme=radical)](https://github.com/Saqlain-qark/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqlain-qark&layout=compact&theme=radical)](https://github.com/Saqlain-qark/github-readme-stats)
+
+## 🎉 Thanks for visiting!
+
+I'm always looking to collaborate on new projects and learn from others, so feel free to reach out to me anytime.
