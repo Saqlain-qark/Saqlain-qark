@@ -26,7 +26,7 @@ Here are a few highlights of my recent projects:
 - **Front-end:** 
 - **Back-end:** 
 - **Databases:** MySQL, OracleSQL
-- **Tools:** Git, GitHub, VS Code, Eclipse, Atom
+- **Tools:** Git, GitHub, VS Code, Eclipse, Atom, Dev C, Turbo
 
 ## 📈 GitHub Stats
 
