@@ -7,8 +7,10 @@ I'm a software engineer with a passion for building creative solutions. I specia
 Here are a few highlights of my recent projects:
 
 - [Idea Adventurer](https://github.com/Saqlain-qark/Idea-Adventurer) - A website that provides educational and technological resources for people interested in learning about new ideas.
+
 - [Person Counter App](https://github.com/Saqlain-qark/Counter-App) - A simple web application that allows users to count the number of people entering a space and save the count for future reference.
-- [BlackJack-Game](https://github.com/Saqlain-qark/BlackJack-Game) - A simple BlackJack Game that allows users to draw cards and notifies them if they got a BlackJack or not.
+
+- [BlackJack-Game](https://github.com/Saqlain-qark/BlackJack-Game) - This is a simple implementation of the Blackjack game in HTML, CSS, and JavaScript. You can see a description demo of the game [here](https://saqlain-qark.github.io/BlackJack-Game/).
 
 ## 🌱 I'm currently learning
 
