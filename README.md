@@ -1,6 +1,6 @@
 # Hi there, I'm Saqlain 👋
 
-I'm a software engineer with a passion for building creative solutions. I specialize in web development and have experience with a variety of programming languages and technologies. I'm always learning and exploring new ideas to improve my skills and contribute to the community.
+I'm an aspiring software engineer with a passion for building creative solutions. I am currently focusing in web development and have experience with a variety of programming languages and technologies. I'm always learning and exploring new ideas to improve my skills and contribute to the community.
 
 ## 🔭 My Work
 
@@ -15,7 +15,7 @@ Here are a few highlights of my recent projects:
 ## 🌱 I'm currently learning
 
 - JavaScript
-- Data Structures and Algorithm
+- Data Structures and Algorithm Using Java
 
 ## 📫 How to reach me
 
