@@ -33,8 +33,6 @@ Here are a few highlights of my recent projects:
 
 ## 📈 GitHub Stats
 
-[![Saqlain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saqlain-qark&count_private=true&show_icons=true&theme=radical)](https://github.com/Saqlain-qark/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqlain-qark&layout=compact&theme=radical)](https://github.com/Saqlain-qark/github-readme-stats)
 
 ## 🎉 Thanks for visiting!
